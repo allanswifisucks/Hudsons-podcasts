@@ -4,3 +4,25 @@
   align-items: center;
 
 }
+
+.taskbar{
+  background-color: rgb(159, 29, 29);
+  margin-top: 0px;
+}
+
+.para{
+  background-color: blue;
+  
+}
+
+.tp{
+  background-color: blue;
+}
+
+.buttonstyle{
+  background-color: gray;
+  border-color: brown;
+  width: 100px;  /* Adjusts the width */
+  height: 50px;  /* Adjusts the height */
+
+}
