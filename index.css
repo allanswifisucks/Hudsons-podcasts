@@ -29,3 +29,11 @@
 
 }
 
+.codedby{
+            position: fixed; /* Keeps it in place */
+            bottom: 0; /* Aligns to bottom */
+            left: 0; /* Aligns to left */
+            /* padding: 10px; Adds some space */
+            /* background-color: lightgray; Optional styling */
+
+}
