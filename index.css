@@ -24,5 +24,8 @@
   border-color: brown;
   width: 100px;  /* Adjusts the width */
   height: 50px;  /* Adjusts the height */
+  margin-left: 10px;
+  margin-right: 10px;
 
 }
+
